@@ -1,0 +1,72 @@
+body {
+	font-size: 45px;
+}
+
+button {
+	margin-top: 5%;
+	font-size: 65px;
+	width: 600px;
+}
+
+.sendMail {
+	font-size: 65px;
+	width: 600px;
+}
+
+.liste {
+	padding-top: 10px;
+}
+
+.banqueImagesSrc img {
+	height: 150px;
+	width: auto;
+}
+
+.banqueImagesSrc input {
+	font-size: 45px;
+}
+
+.projetsBatchListe button {
+	width: 450px;
+	font-size: 35px;
+}
+
+.emojiMail {
+	width: 300px;
+}
+
+.emojiMail textarea {
+    height:65px;
+    width:550px;
+	font-size: 45px;
+}
+
+.emojiMail input {
+	font-size: 45px;
+}
+
+.portfolioSommaire a{
+	font-size: 25px;
+}
+
+.portfolio div img {
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+}
+
+p {
+	font-size: 95px;
+}
+
+.horraire1 {
+	text-align: center;
+	height: 500px;
+	background-color: #f4d744;
+}
+
+.horraire2 {
+	text-align: center;
+	height: 500px;
+	background-color: #4dbc4b;
+}

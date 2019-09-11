@@ -1,0 +1,55 @@
+body {
+	font-size: 22px;
+}
+
+body p {
+	align: center;
+}
+
+button {
+	width: 200px;
+}
+
+.logo img {
+	width: auto;
+	height: 250px;;
+}
+
+.banqueImagesSrc img {
+	height: 200%;
+	width: auto;
+}
+
+.emojiMail {
+	width: 250px;
+}
+
+.portfolio, .portfolioSommaire {
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+#pfmpSCMicro, #pfmpMultimedia, #pfmpVBX {
+	margin-bottom: -15px;
+}
+
+.mentionsLegales, .mesMusiques {
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+p {
+	font-size: 45px;
+}
+
+.horraire1 {
+	text-align: center;
+	height: 300px;
+	background-color: #f4d744;
+}
+
+.horraire2 {
+	text-align: center;
+	height: 300px;
+	background-color: #4dbc4b;
+}

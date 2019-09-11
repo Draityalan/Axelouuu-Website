@@ -1,0 +1,12 @@
+# Dossiers privés à ne pas envoyer sur GitHub
+monJeu
+Mynecraft
+minecraftImages
+musiques
+vbxradio
+
+# Fichiers privés à ne pas envoyer sur GitHub
+projetMusiques.php
+
+# Visual studio code
+*.code-workspace

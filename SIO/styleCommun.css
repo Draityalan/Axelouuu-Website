@@ -1,0 +1,141 @@
+body {
+	font-family: carlito, Arial;
+	background-color: #565656;
+	color: white;
+}
+
+p {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+a :visited {
+	text-decoration: none;
+	color: white;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.logo {
+	text-align: center;
+}
+	
+button {
+	background-color: #ff7578;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	transition-duration: 0.4s;
+	border-radius: 8px;
+}
+
+button:hover {
+	cursor: pointer;
+	color: #ff7578;
+	background-color: white;
+}
+
+
+	
+.sendMail {
+	background-color: #ff7578;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	transition-duration: 0.4s;
+	border-radius: 8px;
+}
+
+.sendMail:hover {
+	cursor: pointer;
+	color: #ff7578;
+	background-color: white;
+}
+
+.telechargerBouton {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.liste {
+	margin-left: auto;
+	margin-right: auto;
+	width: 100px;
+}
+
+.banqueImagesSrc img {
+	image-rendering: pixelated;
+}
+
+.banqueImagesSrc {
+	text-align: center;
+	border: solid #ff7578;
+	background-color: #EA8A8A;
+	border-radius: 8px;
+}
+
+.projetsBatchBouton {
+	width: auto;
+}
+
+.emojiMail {
+	text-align: center;
+	margin-top: 5px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.portfolioSommaire {
+	border-top: 10px solid #EA8A8A;
+	text-align: center;
+}
+
+.portfolioSommaire a{
+	text-decoration: underline;
+}
+
+.portfolioH1 {
+	border-bottom: 10px solid #EA8A8A;
+}
+
+.portfolioH2 {
+	border-bottom: 3px solid #EA8A8A;
+}
+
+.mesMusiques {
+	text-align: center;
+}
+
+.mesMusiques h1 {
+	border-bottom: 10px solid #EA8A8A;
+}
+
+#41980-28 {
+	text-align: center;
+}
+
+.boutons {
+	margin-left: auto;
+	margin-right: auto;
+	height: 150px;
+}
+
+.pub {
+	margin-top: 2%;
+	margin-left: auto;
+	margin-right: auto;
+	height: 150px;
+}
