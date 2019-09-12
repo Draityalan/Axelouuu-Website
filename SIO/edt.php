@@ -151,7 +151,7 @@
 					$horraire = 1;
 				}
 				
-				if ($heure <= 8 && $minute < 55) {
+				if ($heure <= 8 && $minute < 5) {
 					$horraire = 1;
 				}
 				
