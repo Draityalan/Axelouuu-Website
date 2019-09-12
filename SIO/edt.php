@@ -151,47 +151,47 @@
 					$horraire = 1;
 				}
 				
-				if ($heure <= 8 || $minute < 55) {
+				if ($heure <= 8 && $minute < 55) {
 					$horraire = 1;
 				}
 				
-				if ($heure <= 10 || $minute < 10) {
+				if ($heure <= 10 && $minute < 10) {
 					$horraire = 2;
 				}
 				
-				if ($heure <= 11 || $minute < 10) {
+				if ($heure <= 11 && $minute < 10) {
 					$horraire = 3;
 				}
 				
-				if ($heure <= 12 || $minute < 10) {
+				if ($heure <= 12 && $minute < 10) {
 					$horraire = 4;
 				}
 				
-				if ($heure <= 13 || $minute < 10) {
+				if ($heure <= 13 && $minute < 10) {
 					$horraire = 5;
 				}
 				
-				if ($heure <= 14 || $minute < 10) {
+				if ($heure <= 14 && $minute < 10) {
 					$horraire = 6;
 				}
 				
-				if ($heure <= 15 || $minute < 20) {
+				if ($heure <= 15 && $minute < 20) {
 					$horraire = 7;
 				}
 				
-				if ($heure <= 16 || $minute < 20) {
+				if ($heure <= 16 && $minute < 20) {
 					$horraire = 8;
 				}
 				
-				if ($heure <= 17 || $minute < 20) {
+				if ($heure <= 17 && $minute < 20) {
 					$horraire = 9;
 				}
 				
-				if ($heure > 17 || $minute > 20) {
+				if ($heure > 17 && $minute > 20) {
 					$horraire = 1;
 				}
 				
-				if ($date == 'Fri' || $heure >= 17 || $minute >= 20) {
+				if ($date == 'Fri' && $heure >= 17 && $minute >= 20) {
 					$date = 'Mon';
 				}
 				
@@ -205,7 +205,7 @@
 					$date = 'Mon';
 				}
 				
-				if ($date == 'Mon' || $heure < 8) {
+				if ($date == 'Mon' && $heure < 8) {
 					$horraire = 1;
 					$date = 'Mon';
 				}
