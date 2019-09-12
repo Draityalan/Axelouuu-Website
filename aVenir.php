@@ -7,5 +7,5 @@
 <div>
 	<p>J'ai encore pas mal de projets en têtes !</br>
 	</br>
-	Une newletter par exemple ! Ça vous éviterai de vous rendre ici pour savoir si il y a du nouveau xD</p>
+	Une newletter par exemple ! Ça vous éviterai de vous rendre ici pour savoir si il y a du nouveau xDD</p>
 </div>
