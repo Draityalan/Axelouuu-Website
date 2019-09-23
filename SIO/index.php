@@ -171,7 +171,7 @@
 		
 	</head>
 	<body>
-		<p>Emploi du temps SIO2 (Beta 0.7)</p>
+		<p>Emploi du temps SIO2 (Beta 2.0)</p>
 		
 		<?php
 		if (isset($_GET['groupe'])) {
