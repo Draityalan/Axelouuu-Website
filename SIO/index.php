@@ -189,12 +189,12 @@
 				echo '
 					<table>
 						<tr>
-							<td><a href="./index.php?specialite='.$specialite.'&groupe='.$groupe.'&mathAppro=oui"><button>Option Maths Appro.</button></a></td>';
+							<td><a href="./index.php?specialite='.$specialite.'&groupe='.$groupe.'&mathAppro=1"><button>Option Maths Appro.</button></a></td>';
 							
 						if ($plateforme == "mobile") {echo '</tr>';}
 						
 						echo '
-							<td><a href="./index.php?specialite='.$specialite.'&groupe='.$groupe.'&mathAppro=non"><button>Pas d\'option</button></a></td>
+							<td><a href="./index.php?specialite='.$specialite.'&groupe='.$groupe.'&mathAppro=0"><button>Pas d\'option</button></a></td>
 						</tr>
 					</table>';
 			
