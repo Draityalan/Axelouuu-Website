@@ -139,3 +139,8 @@ button:hover {
 	margin-right: auto;
 	height: 150px;
 }
+
+#info {
+	margin-bottom: -30px;
+	background-color: #e4595b;
+}

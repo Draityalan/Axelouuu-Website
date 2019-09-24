@@ -1,0 +1,470 @@
+{
+    "slam": {
+        "a": {
+            "0": {
+                "Mon": {
+                    "8": "SLAM 3 </br> Djabou </br> B4i </br> 8h-12h",
+                    "9": "SLAM 3 </br> Djabou </br> B4i </br> 8h-12h",
+                    "10": "SLAM 3 </br> Djabou </br> B4i </br> 8h-12h",
+                    "11": "SLAM 3 </br> Djabou </br> B4i </br> 8h-12h",
+                    "12": "Self </br> 12h-14h",
+                    "13": "Self </br> 12h-14h",
+                    "14": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 14h-15h",
+                    "15": "Mathématiques </br> Diligeart </br> A127 </br> 15h-16h",
+                    "16": "Culture G. </br> Baudet </br> A127 </br> 16h-17h"
+                },
+                "Tue": {
+                    "8": "Culture G. </br> Baudet </br> A223 </br> 8h-9h",
+                    "9": "Mathématiques </br> Diligeart </br> A302 </br> 9h-10h",
+                    "10": "Anglais </br> Le Goff-Robin </br> A316 </br> 10h-11h",
+                    "11": "Self </br> 11h-13h",
+                    "12": "Self </br> 11h-13h",
+                    "13": "PPE 3 </br> Serres </br> B4i </br> 13h-17h",
+                    "14": "PPE 3 </br> Serres </br> B4i </br> 13h-17h",
+                    "15": "PPE 3 </br> Serres </br> B4i </br> 13h-17h",
+                    "16": "PPE 3 </br> Serres </br> B4i </br> 13h-17h"
+                },
+                "Wed": {
+                    "8": "Heure libre </br> 8h-9h",
+                    "9": "Culture G. </br> Baudet </br> A223 </br> 9h-10h",
+                    "10": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> B3bis </br> 10h-11h",
+                    "11": "SI7 </br> Djabou </br> A210 </br> 11h-12h",
+                    "12": "Self </br> 12h-13h",
+                    "13": "SLAM 5 </br> Serres </br> B4i </br> 13h-17h",
+                    "14": "SLAM 5 </br> Serres </br> B4i </br> 13h-17h",
+                    "15": "SLAM 5 </br> Serres </br> B4i </br> 13h-17h",
+                    "16": "SLAM 5 </br> Serres </br> B4i </br> 13h-17h"
+                },
+                "Thu": {
+                    "8": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 8h-10h",
+                    "9": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 8h-10h",
+                    "10": "Heure libre </br> 10h-11h",
+                    "11": "SI7 </br> Djabou </br> A207 </br> 11h-12h",
+                    "12": "Self </br> 12h-13h",
+                    "13": "SI7 </br> Djabou </br> B4i </br> 13h-15h",
+                    "14": "SI7 </br> Djabou </br> B4i </br> 13h-15h",
+                    "15": "Mathématiques </br> Diligeart </br> A303i </br> 15h-16h",
+                    "16": "Anglais </br> Le Goff-Robin </br> A301 </br> 16h-17h"
+                },
+                "Fri": {
+                    "8": "SLAM 4 </br> Serres </br> B4i </br> 8h-12h",
+                    "9": "SLAM 4 </br> Serres </br> B4i </br> 8h-12h",
+                    "10": "SLAM 4 </br> Serres </br> B4i </br> 8h-12h",
+                    "11": "SLAM 4 </br> Serres </br> B4i </br> 8h-12h",
+                    "12": "Self </br> 12h-13h",
+                    "13": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 13h-14h",
+                    "14": "Anglais </br> Le Goff-Robin </br> A310 </br> 14h-15h",
+                    "15": "Fin de journée !",
+                    "16": "Fin de journée !"
+                }
+            },
+            "1": {
+                "Mon": {
+                    "8": "SLAM 3 </br> Djabou </br> B4i </br> 8h-12h",
+                    "9": "SLAM 3 </br> Djabou </br> B4i </br> 8h-12h",
+                    "10": "SLAM 3 </br> Djabou </br> B4i </br> 8h-12h",
+                    "11": "SLAM 3 </br> Djabou </br> B4i </br> 8h-12h",
+                    "12": "Self </br> 12h-13h",
+                    "13": "Math Appro. </br> Diligeart </br> A305 </br> 13h-14h",
+                    "14": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 14h-15h",
+                    "15": "Mathématiques </br> Diligeart </br> A127 </br> 15h-16h",
+                    "16": "Culture G. </br> Baudet </br> A127 </br> 16h-17h"
+                },
+                "Tue": {
+                    "8": "Culture G. </br> Baudet </br> A223 </br> 8h-9h",
+                    "9": "Mathématiques </br> Diligeart </br> A302 </br> 9h-10h",
+                    "10": "Anglais </br> Le Goff-Robin </br> A316 </br> 10h-11h",
+                    "11": "Math Appro. </br> Diligeart </br> A302 </br> 11h-12h",
+                    "12": "Self </br> 12h-13h",
+                    "13": "PPE 3 </br> Serres </br> B4i </br> 13h-17h",
+                    "14": "PPE 3 </br> Serres </br> B4i </br> 13h-17h",
+                    "15": "PPE 3 </br> Serres </br> B4i </br> 13h-17h",
+                    "16": "PPE 3 </br> Serres </br> B4i </br> 13h-17h"
+                },
+                "Wed": {
+                    "8": "Heure libre </br> 8h-9h",
+                    "9": "Culture G. </br> Baudet </br> A223 </br> 9h-10h",
+                    "10": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> B3bis </br> 10h-11h",
+                    "11": "SI7 </br> Djabou </br> A210 </br> 11h-12h",
+                    "12": "Self </br> 12h-13h",
+                    "13": "SLAM 5 </br> Serres </br> B4i </br> 13h-17h",
+                    "14": "SLAM 5 </br> Serres </br> B4i </br> 13h-17h",
+                    "15": "SLAM 5 </br> Serres </br> B4i </br> 13h-17h",
+                    "16": "SLAM 5 </br> Serres </br> B4i </br> 13h-17h"
+                },
+                "Thu": {
+                    "8": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 8h-10h",
+                    "9": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 8h-10h",
+                    "10": "Heure libre </br> 10h-11h",
+                    "11": "SI7 </br> Djabou </br> A207 </br> 11h-12h",
+                    "12": "Self </br> 12h-13h",
+                    "13": "SI7 </br> Djabou </br> B4i </br> 13h-15h",
+                    "14": "SI7 </br> Djabou </br> B4i </br> 13h-15h",
+                    "15": "Mathématiques </br> Diligeart </br> A303i </br> 15h-16h",
+                    "16": "Anglais </br> Le Goff-Robin </br> A301 </br> 16h-17h"
+                },
+                "Fri": {
+                    "8": "SLAM 4 </br> Serres </br> B4i </br> 8h-12h",
+                    "9": "SLAM 4 </br> Serres </br> B4i </br> 8h-12h",
+                    "10": "SLAM 4 </br> Serres </br> B4i </br> 8h-12h",
+                    "11": "SLAM 4 </br> Serres </br> B4i </br> 8h-12h",
+                    "12": "Self </br> 12h-13h",
+                    "13": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 13h-14h",
+                    "14": "Anglais </br> Le Goff-Robin </br> A310 </br> 14h-15h",
+                    "15": "Fin de journée !",
+                    "16": "Fin de journée !"
+                }
+            }
+        },
+        "b": {
+            "0": {
+                "Mon": {
+                    "8": "SLAM 3 </br> Djabou </br> B4i </br> 8h-12h",
+                    "9": "SLAM 3 </br> Djabou </br> B4i </br> 8h-12h",
+                    "10": "SLAM 3 </br> Djabou </br> B4i </br> 8h-12h",
+                    "11": "SLAM 3 </br> Djabou </br> B4i </br> 8h-12h",
+                    "12": "Self </br> 12h-14h",
+                    "13": "Self </br> 12h-14h",
+                    "14": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 14h-15h",
+                    "15": "Mathématiques </br> Diligeart </br> A127 </br> 15h-16h",
+                    "16": "Culture G. </br> Baudet </br> A127 </br> 16h-17h"
+                },
+                "Tue": {
+                    "8": "Culture G. </br> Baudet </br> A223 </br> 8h-9h",
+                    "9": "Mathématiques </br> Diligeart </br> A302 </br> 9h-10h",
+                    "10": "Anglais </br> Le Goff-Robin </br> A316 </br> 10h-11h",
+                    "11": "Self </br> 11h-13h",
+                    "12": "Self </br> 11h-13h",
+                    "13": "PPE 3 </br> Serres </br> B4i </br> 13h-17h",
+                    "14": "PPE 3 </br> Serres </br> B4i </br> 13h-17h",
+                    "15": "PPE 3 </br> Serres </br> B4i </br> 13h-17h",
+                    "16": "PPE 3 </br> Serres </br> B4i </br> 13h-17h"
+                },
+                "Wed": {
+                    "8": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> B3bis </br> 8h-9h",
+                    "9": "Heure libre </br> 9h-10h",
+                    "10": "Culture G. </br> Baudet </br> A223 </br> 10h-11h",
+                    "11": "SI7 </br> Djabou </br> A210 </br> 11h-12h",
+                    "12": "Self </br> 12h-13h",
+                    "13": "SLAM 5 </br> Serres </br> B4i </br> 13h-17h",
+                    "14": "SLAM 5 </br> Serres </br> B4i </br> 13h-17h",
+                    "15": "SLAM 5 </br> Serres </br> B4i </br> 13h-17h",
+                    "16": "SLAM 5 </br> Serres </br> B4i </br> 13h-17h"
+                },
+                "Thu": {
+                    "8": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 8h-10h",
+                    "9": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 8h-10h",
+                    "10": "Anglais </br> Le Goff-Robin </br> A312 </br> 10h-11h",
+                    "11": "SI7 </br> Djabou </br> A207 </br> 11h-12h",
+                    "12": "Self </br> 12h-14h",
+                    "13": "Self </br> 12h-14h",
+                    "14": "Mathématiques </br> Diligeart </br> A305 </br> 14h-15h",
+                    "15": "SI7 </br> Djabou </br> B4i </br> 15h-17h",
+                    "16": "SI7 </br> Djabou </br> B4i </br> 15h-17h"
+                },
+                "Fri": {
+                    "8": "SLAM 4 </br> Serres </br> B4i </br> 8h-12h",
+                    "9": "SLAM 4 </br> Serres </br> B4i </br> 8h-12h",
+                    "10": "SLAM 4 </br> Serres </br> B4i </br> 8h-12h",
+                    "11": "SLAM 4 </br> Serres </br> B4i </br> 8h-12h",
+                    "12": "Self </br> 12h-13h",
+                    "13": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 13h-14h",
+                    "14": "Fin de journée !",
+                    "15": "Fin de journée !",
+                    "16": "Fin de journée !"
+                }
+            },
+            "1": {
+                "Mon": {
+                    "8": "SLAM 3 </br> Djabou </br> B4i </br> 8h-12h",
+                    "9": "SLAM 3 </br> Djabou </br> B4i </br> 8h-12h",
+                    "10": "SLAM 3 </br> Djabou </br> B4i </br> 8h-12h",
+                    "11": "SLAM 3 </br> Djabou </br> B4i </br> 8h-12h",
+                    "12": "Self </br> 12h-14h",
+                    "13": "Math Appro. </br> Diligeart </br> A305 </br> 13h-14h",
+                    "14": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 14h-15h",
+                    "15": "Mathématiques </br> Diligeart </br> A127 </br> 15h-16h",
+                    "16": "Culture G. </br> Baudet </br> A127 </br> 16h-17h"
+                },
+                "Tue": {
+                    "8": "Culture G. </br> Baudet </br> A223 </br> 8h-9h",
+                    "9": "Mathématiques </br> Diligeart </br> A302 </br> 9h-10h",
+                    "10": "Anglais </br> Le Goff-Robin </br> A316 </br> 10h-11h",
+                    "11": "Math Appro. </br> Diligeart </br> A302 </br> 11h-12h",
+                    "12": "Self </br> 12h-13h",
+                    "13": "PPE 3 </br> Serres </br> B4i </br> 13h-17h",
+                    "14": "PPE 3 </br> Serres </br> B4i </br> 13h-17h",
+                    "15": "PPE 3 </br> Serres </br> B4i </br> 13h-17h",
+                    "16": "PPE 3 </br> Serres </br> B4i </br> 13h-17h"
+                },
+                "Wed": {
+                    "8": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> B3bis </br> 8h-9h",
+                    "9": "Heure libre </br> 9h-10h",
+                    "10": "Culture G. </br> Baudet </br> A223 </br> 10h-11h",
+                    "11": "SI7 </br> Djabou </br> A210 </br> 11h-12h",
+                    "12": "Self </br> 12h-13h",
+                    "13": "SLAM 5 </br> Serres </br> B4i </br> 13h-17h",
+                    "14": "SLAM 5 </br> Serres </br> B4i </br> 13h-17h",
+                    "15": "SLAM 5 </br> Serres </br> B4i </br> 13h-17h",
+                    "16": "SLAM 5 </br> Serres </br> B4i </br> 13h-17h"
+                },
+                "Thu": {
+                    "8": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 8h-10h",
+                    "9": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 8h-10h",
+                    "10": "Anglais </br> Le Goff-Robin </br> A312 </br> 10h-11h",
+                    "11": "SI7 </br> Djabou </br> A207 </br> 11h-12h",
+                    "12": "Self </br> 12h-14h",
+                    "13": "Self </br> 12h-14h",
+                    "14": "Mathématiques </br> Diligeart </br> A305 </br> 14h-15h",
+                    "15": "SI7 </br> Djabou </br> B4i </br> 15h-17h",
+                    "16": "SI7 </br> Djabou </br> B4i </br> 15h-17h"
+                },
+                "Fri": {
+                    "8": "SLAM 4 </br> Serres </br> B4i </br> 8h-12h",
+                    "9": "SLAM 4 </br> Serres </br> B4i </br> 8h-12h",
+                    "10": "SLAM 4 </br> Serres </br> B4i </br> 8h-12h",
+                    "11": "SLAM 4 </br> Serres </br> B4i </br> 8h-12h",
+                    "12": "Self </br> 12h-13h",
+                    "13": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 13h-14h",
+                    "14": "Fin de journée !",
+                    "15": "Fin de journée !",
+                    "16": "Fin de journée !"
+                }
+            }
+        }
+    },
+    "sisr": {
+        "a": {
+            "0": {
+                "Mon": {
+                    "8": "SISR 3 </br> Gardere </br> B8 </br> 8h-12h",
+                    "9": "SISR 3 </br> Gardere </br> B8 </br> 8h-12h",
+                    "10": "SISR 3 </br> Gardere </br> B8 </br> 8h-12h",
+                    "11": "SISR 3 </br> Gardere </br> B8 </br> 8h-12h",
+                    "12": "Self </br> 12h-14h",
+                    "13": "Self </br> 12h-14h",
+                    "14": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 14h-15h",
+                    "15": "Mathématiques </br> Diligeart </br> A127 </br> 15h-16h",
+                    "16": "Culture G. </br> Baudet </br> A127 </br> 16h-17h"
+                },
+                "Tue": {
+                    "8": "Culture G. </br> Baudet </br> A223 </br> 8h-9h",
+                    "9": "Mathématiques </br> Diligeart </br> A302 </br> 9h-10h",
+                    "10": "Anglais </br> Le Goff-Robin </br> A316 </br> 10h-11h",
+                    "11": "Self </br> 11h-13h",
+                    "12": "Self </br> 11h-13h",
+                    "13": "PPE 3 </br> Gardere </br> B8 </br> 13h-17h",
+                    "14": "PPE 3 </br> Gardere </br> B8 </br> 13h-17h",
+                    "15": "PPE 3 </br> Gardere </br> B8 </br> 13h-17h",
+                    "16": "PPE 3 </br> Gardere </br> B8 </br> 13h-17h"
+                },
+                "Wed": {
+                    "8": "Heure libre </br> 8h-9h",
+                    "9": "Culture G. </br> Baudet </br> A223 </br> 9h-10h",
+                    "10": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> B3bis </br> 10h-11h",
+                    "11": "SI7 </br> Djabou </br> A210 </br> 11h-12h",
+                    "12": "Self </br> 12h-13h",
+                    "13": "SISR 5 </br> Gardere </br> B8 </br> 13h-17h",
+                    "14": "SISR 5 </br> Gardere </br> B8 </br> 13h-17h",
+                    "15": "SISR 5 </br> Gardere </br> B8 </br> 13h-17h",
+                    "16": "SISR 5 </br> Gardere </br> B8 </br> 13h-17h"
+                },
+                "Thu": {
+                    "8": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 8h-10h",
+                    "9": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 8h-10h",
+                    "10": "Heure libre </br> 10h-11h",
+                    "11": "SI7 </br> Djabou </br> A207 </br> 11h-12h",
+                    "12": "Self </br> 12h-13h",
+                    "13": "SI7 </br> Djabou </br> B4i </br> 13h-15h",
+                    "14": "SI7 </br> Djabou </br> B4i </br> 13h-15h",
+                    "15": "Mathématiques </br> Diligeart </br> A303i </br> 15h-16h",
+                    "16": "Anglais </br> Le Goff-Robin </br> A301 </br> 16h-17h"
+                },
+                "Fri": {
+                    "8": "SISR 4 </br> Gardere </br> B8 </br> 8h-12h",
+                    "9": "SISR 4 </br> Gardere </br> B8 </br> 8h-12h",
+                    "10": "SISR 4 </br> Gardere </br> B8 </br> 8h-12h",
+                    "11": "SISR 4 </br> Gardere </br> B8 </br> 8h-12h",
+                    "12": "Self </br> 12h-13h",
+                    "13": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 13h-14h",
+                    "14": "Anglais </br> Le Goff-Robin </br> A310 </br> 14h-15h",
+                    "15": "Fin de journée !",
+                    "16": "Fin de journée !"
+                }
+            },
+            "1": {
+                "Mon": {
+                    "8": "SISR 3 </br> Gardere </br> B8 </br> 8h-12h",
+                    "9": "SISR 3 </br> Gardere </br> B8 </br> 8h-12h",
+                    "10": "SISR 3 </br> Gardere </br> B8 </br> 8h-12h",
+                    "11": "SISR 3 </br> Gardere </br> B8 </br> 8h-12h",
+                    "12": "Self </br> 12h-13h",
+                    "13": "Math Appro. </br> Diligeart </br> A305 </br> 13h-14h",
+                    "14": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 14h-15h",
+                    "15": "Mathématiques </br> Diligeart </br> A127 </br> 15h-16h",
+                    "16": "Culture G. </br> Baudet </br> A127 </br> 16h-17h"
+                },
+                "Tue": {
+                    "8": "Culture G. </br> Baudet </br> A223 </br> 8h-9h",
+                    "9": "Mathématiques </br> Diligeart </br> A302 </br> 9h-10h",
+                    "10": "Anglais </br> Le Goff-Robin </br> A316 </br> 10h-11h",
+                    "11": "Math Appro. </br> Diligeart </br> A302 </br> 11h-12h",
+                    "12": "Self </br> 12h-13h",
+                    "13": "PPE 3 </br> Gardere </br> B8 </br> 13h-17h",
+                    "14": "PPE 3 </br> Gardere </br> B8 </br> 13h-17h",
+                    "15": "PPE 3 </br> Gardere </br> B8 </br> 13h-17h",
+                    "16": "PPE 3 </br> Gardere </br> B8 </br> 13h-17h"
+                },
+                "Wed": {
+                    "8": "Heure libre </br> 8h-9h",
+                    "9": "Culture G. </br> Baudet </br> A223 </br> 9h-10h",
+                    "10": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> B3bis </br> 10h-11h",
+                    "11": "SI7 </br> Djabou </br> A210 </br> 11h-12h",
+                    "12": "Self </br> 12h-13h",
+                    "13": "SISR 5 </br> Gardere </br> B8 </br> 13h-17h",
+                    "14": "SISR 5 </br> Gardere </br> B8 </br> 13h-17h",
+                    "15": "SISR 5 </br> Gardere </br> B8 </br> 13h-17h",
+                    "16": "SISR 5 </br> Gardere </br> B8 </br> 13h-17h"
+                },
+                "Thu": {
+                    "8": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 8h-10h",
+                    "9": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 8h-10h",
+                    "10": "Heure libre </br> 10h-11h",
+                    "11": "SI7 </br> Djabou </br> A207 </br> 11h-12h",
+                    "12": "Self </br> 12h-13h",
+                    "13": "SI7 </br> Djabou </br> B4i </br> 13h-15h",
+                    "14": "SI7 </br> Djabou </br> B4i </br> 13h-15h",
+                    "15": "Mathématiques </br> Diligeart </br> A303i </br> 15h-16h",
+                    "16": "Anglais </br> Le Goff-Robin </br> A301 </br> 16h-17h"
+                },
+                "Fri": {
+                    "8": "SISR 4 </br> Gardere </br> B8 </br> 8h-12h",
+                    "9": "SISR 4 </br> Gardere </br> B8 </br> 8h-12h",
+                    "10": "SISR 4 </br> Gardere </br> B8 </br> 8h-12h",
+                    "11": "SISR 4 </br> Gardere </br> B8 </br> 8h-12h",
+                    "12": "Self </br> 12h-13h",
+                    "13": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 13h-14h",
+                    "14": "Anglais </br> Le Goff-Robin </br> A310 </br> 14h-15h",
+                    "15": "Fin de journée !",
+                    "16": "Fin de journée !"
+                }
+            }
+        },
+        "b": {
+            "0": {
+                "Mon": {
+                    "8": "SISR 3 </br> Gardere </br> B8 </br> 8h-12h",
+                    "9": "SISR 3 </br> Gardere </br> B8 </br> 8h-12h",
+                    "10": "SISR 3 </br> Gardere </br> B8 </br> 8h-12h",
+                    "11": "SISR 3 </br> Gardere </br> B8 </br> 8h-12h",
+                    "12": "Self </br> 12h-14h",
+                    "13": "Self </br> 12h-14h",
+                    "14": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 14h-15h",
+                    "15": "Mathématiques </br> Diligeart </br> A127 </br> 15h-16h",
+                    "16": "Culture G. </br> Baudet </br> A127 </br> 16h-17h"
+                },
+                "Tue": {
+                    "8": "Culture G. </br> Baudet </br> A223 </br> 8h-9h",
+                    "9": "Mathématiques </br> Diligeart </br> A302 </br> 9h-10h",
+                    "10": "Anglais </br> Le Goff-Robin </br> A316 </br> 10h-11h",
+                    "11": "Self </br> 11h-13h",
+                    "12": "Self </br> 11h-13h",
+                    "13": "PPE 3 </br> Gardere </br> B8 </br> 13h-17h",
+                    "14": "PPE 3 </br> Gardere </br> B8 </br> 13h-17h",
+                    "15": "PPE 3 </br> Gardere </br> B8 </br> 13h-17h",
+                    "16": "PPE 3 </br> Gardere </br> B8 </br> 13h-17h"
+                },
+                "Wed": {
+                    "8": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> B3bis </br> 8h-9h",
+                    "9": "Heure libre </br> 9h-10h",
+                    "10": "Culture G. </br> Baudet </br> A223 </br> 10h-11h",
+                    "11": "SI7 </br> Djabou </br> A210 </br> 11h-12h",
+                    "12": "Self </br> 12h-13h",
+                    "13": "SISR 5 </br> Gardere </br> B8 </br> 13h-17h",
+                    "14": "SISR 5 </br> Gardere </br> B8 </br> 13h-17h",
+                    "15": "SISR 5 </br> Gardere </br> B8 </br> 13h-17h",
+                    "16": "SISR 5 </br> Gardere </br> B8 </br> 13h-17h"
+                },
+                "Thu": {
+                    "8": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 8h-10h",
+                    "9": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 8h-10h",
+                    "10": "Anglais </br> Le Goff-Robin </br> A312 </br> 10h-11h",
+                    "11": "SI7 </br> Djabou </br> A207 </br> 11h-12h",
+                    "12": "Self </br> 12h-14h",
+                    "13": "Self </br> 12h-14h",
+                    "14": "Mathématiques </br> Diligeart </br> A305 </br> 14h-15h",
+                    "15": "SI7 </br> Djabou </br> B4i </br> 15h-17h",
+                    "16": "SI7 </br> Djabou </br> B4i </br> 15h-17h"
+                },
+                "Fri": {
+                    "8": "SISR 4 </br> Gardere </br> B8 </br> 8h-12h",
+                    "9": "SISR 4 </br> Gardere </br> B8 </br> 8h-12h",
+                    "10": "SISR 4 </br> Gardere </br> B8 </br> 8h-12h",
+                    "11": "SISR 4 </br> Gardere </br> B8 </br> 8h-12h",
+                    "12": "Self </br> 12h-13h",
+                    "13": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 13h-14h",
+                    "14": "Fin de journée !",
+                    "15": "Fin de journée !",
+                    "16": "Fin de journée !"
+                }
+            },
+            "1": {
+                "Mon": {
+                    "8": "SISR 3 </br> Gardere </br> B8 </br> 8h-12h",
+                    "9": "SISR 3 </br> Gardere </br> B8 </br> 8h-12h",
+                    "10": "SISR 3 </br> Gardere </br> B8 </br> 8h-12h",
+                    "11": "SISR 3 </br> Gardere </br> B8 </br> 8h-12h",
+                    "12": "Self </br> 12h-14h",
+                    "13": "Math Appro. </br> Diligeart </br> A305 </br> 13h-14h",
+                    "14": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 14h-15h",
+                    "15": "Mathématiques </br> Diligeart </br> A127 </br> 15h-16h",
+                    "16": "Culture G. </br> Baudet </br> A127 </br> 16h-17h"
+                },
+                "Tue": {
+                    "8": "Culture G. </br> Baudet </br> A223 </br> 8h-9h",
+                    "9": "Mathématiques </br> Diligeart </br> A302 </br> 9h-10h",
+                    "10": "Anglais </br> Le Goff-Robin </br> A316 </br> 10h-11h",
+                    "11": "Math Appro. </br> Diligeart </br> A302 </br> 11h-12h",
+                    "12": "Self </br> 12h-13h",
+                    "13": "PPE 3 </br> Gardere </br> B8 </br> 13h-17h",
+                    "14": "PPE 3 </br> Gardere </br> B8 </br> 13h-17h",
+                    "15": "PPE 3 </br> Gardere </br> B8 </br> 13h-17h",
+                    "16": "PPE 3 </br> Gardere </br> B8 </br> 13h-17h"
+                },
+                "Wed": {
+                    "8": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> B3bis </br> 8h-9h",
+                    "9": "Heure libre </br> 9h-10h",
+                    "10": "Culture G. </br> Baudet </br> A223 </br> 10h-11h",
+                    "11": "SI7 </br> Djabou </br> A210 </br> 11h-12h",
+                    "12": "Self </br> 12h-13h",
+                    "13": "SISR 5 </br> Gardere </br> B8 </br> 13h-17h",
+                    "14": "SISR 5 </br> Gardere </br> B8 </br> 13h-17h",
+                    "15": "SISR 5 </br> Gardere </br> B8 </br> 13h-17h",
+                    "16": "SISR 5 </br> Gardere </br> B8 </br> 13h-17h"
+                },
+                "Thu": {
+                    "8": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 8h-10h",
+                    "9": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 8h-10h",
+                    "10": "Anglais </br> Le Goff-Robin </br> A312 </br> 10h-11h",
+                    "11": "SI7 </br> Djabou </br> A207 </br> 11h-12h",
+                    "12": "Self </br> 12h-14h",
+                    "13": "Self </br> 12h-14h",
+                    "14": "Mathématiques </br> Diligeart </br> A305 </br> 14h-15h",
+                    "15": "SI7 </br> Djabou </br> B4i </br> 15h-17h",
+                    "16": "SI7 </br> Djabou </br> B4i </br> 15h-17h"
+                },
+                "Fri": {
+                    "8": "SISR 4 </br> Gardere </br> B8 </br> 8h-12h",
+                    "9": "SISR 4 </br> Gardere </br> B8 </br> 8h-12h",
+                    "10": "SISR 4 </br> Gardere </br> B8 </br> 8h-12h",
+                    "11": "SISR 4 </br> Gardere </br> B8 </br> 8h-12h",
+                    "12": "Self </br> 12h-13h",
+                    "13": "AN.ECO.MAN.JUR.S.INF </br> L'Ollivier </br> A207 </br> 13h-14h",
+                    "14": "Fin de journée !",
+                    "15": "Fin de journée !",
+                    "16": "Fin de journée !"
+                }
+            }
+        }
+    }
+}
