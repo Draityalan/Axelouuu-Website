@@ -79,7 +79,7 @@
 						$heure = 15;
 					}
 
-					if ($heure > 17 && $minunte < 15) {
+					if ($heure > 17 && $minute < 15) {
 						$heure = 16;
 					}
 
