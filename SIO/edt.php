@@ -22,7 +22,14 @@
 				$minute = intval(date('i'));
 
 				// Affichage de l'heure
-				echo '<p>Il est '.$heure.':'.$minute.'</p>';
+				
+				//Juste pour qu'il y ai un "0" devant le chiffre de l'heure entre 00h et 10h
+				// Exemple : 0:00 -> 00:00
+				if ($heure < 10 && $heure > 0){
+					echo '<p>Il est 0'.$heure.':'.$minute.'</p>';
+				} else {
+					echo '<p>Il est '.$heure.':'.$minute.'</p>';
+				}
 
 				// Query Strings
 				$specialite = $_GET['specialite'];
@@ -44,6 +51,37 @@
 					// Affichage de l'heure debug
 					echo '<p>(Debug : '.$date.', '.$heure.':'.$minute.') </p>';
 				}
+
+				// Horraire précis pour l'emploi du temps
+					// Exemple : heure de 14 = 14:10 -> 15:05
+
+					if ($heure > 11 && $minute < 5) {
+						$heure = 10;
+					}
+
+					if ($heure > 12 && $minute < 5) {
+						$heure = 11;
+					}
+
+					if ($heure > 13 && $minute < 5) {
+						$heure = 12;
+					}
+
+					if ($heure > 14 && $minute < 5) {
+						$heure = 13;
+					}
+
+					if ($heure > 15 && $minute < 5) {
+						$heure = 14;
+					}
+
+					if ($heure > 16 && $minute < 15) {
+						$heure = 15;
+					}
+
+					if ($heure > 17 && $minunte < 15) {
+						$heure = 16;
+					}
 
 				// Cas particulier du vendredi
 				if ($date === "Fri") {
@@ -89,11 +127,6 @@
 					$info2 = $edtInfo[$specialite][$groupe][$mathAppro][$date][$heureEdt];
 				}
 
-				//Juste pour qu'il y ai un "0" devant le chiffre de l'heure entre 00h et 10h
-				// Exemple : 0:00 -> 00:00
-				if ($heure < 10 && $heure > 0){
-					$heure = "0" . $heure;
-				}
 
 				// Affichage des cours
 				
